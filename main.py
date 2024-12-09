@@ -12,7 +12,6 @@ import locale
 import subprocess
 
 
-
 def load_language(lang_code):
     lang_file = f"./locales/{lang_code}.json"
     fallback_file = "./locales/en.json"
