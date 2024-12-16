@@ -692,6 +692,8 @@ a:hover{
 # Projects Section
 --------------------------------------------------------------*/
 
+
+
 #projects{
     padding: 100px 0px 80px 0px;
     min-height: 100vh;
@@ -1100,4 +1102,8 @@ pre code {
 
 .show-code-btn:hover i {
     transform: rotate(360deg); /* Spin effect */
+}
+
+section + section {
+    margin-top: 100px;
 }
