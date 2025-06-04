@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-version https://git-lfs.github.com/spec/v1
-oid sha256:1eb9c16503906d8244c237499146d74a05ed59985fe982954ba5b496000c22fc
-size 4997
-=======
 
 import os
 from PIL import Image
@@ -189,4 +184,3 @@ def pintar_pontos(escala, l, a, color, xOriginal, yOriginal):
 
 if __name__ == "__main__":
     main()
->>>>>>> a0a29d2904f504e32bfc0521f0095bbdcf541173
